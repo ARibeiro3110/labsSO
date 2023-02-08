@@ -1,7 +1,0 @@
-{
-	"files.associations": {
-		"tlpi_hdr.h": "c",
-		"pthread.h": "c"
-	},
-	"git.enabled": false
-}
